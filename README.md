@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @prasha1436
+- 👋 Hi, I’m @pregulavalasa
 - 👀 I’m interested in Data Analytics
 - 🌱 I’m improving my skills in Data Analytics, Cloud Computing, and Machine Learning
 - 💞️ I’m looking to collaborate on projects involving the above
